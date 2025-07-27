@@ -1,0 +1,20 @@
+dialogic-alignment/
+├── README.md
+├── research/
+│   ├── annotated_bibliography.md
+│   ├── summaries/
+│   │   ├── buber_i_and_thou.md
+│   │   ├── freire_dialogic_pedagogy.md
+│   │   └── ...
+├── drafts/
+│   ├── outline.md
+│   ├── chapter_1_intro.md
+│   ├── chapter_2_tool_history.md
+│   └── ...
+├── notes/
+│   ├── questions_and_reflections.md
+│   └── dialog_samples.md
+├── code/
+│   └── prototype_ai_agent_behavior_simulation.ipynb
+└── final_manuscript/
+    └── dialogic_alignment_final_draft.md

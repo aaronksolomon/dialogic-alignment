@@ -1,0 +1,25 @@
+.
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── code
+├── design
+│   ├── design.md
+│   ├── markdown-guide.md
+│   └── proposed-structure.txt
+├── drafts
+│   └── DA-outline.md
+├── file_structure.txt
+├── manuscripts
+├── notes
+│   ├── convos
+│   │   └── full-convo-04-05-2025.txt
+│   └── summaries
+│       ├── DA-action-items.md
+│       ├── DA-philosophy.md
+│       └── DA-seed-summary.md
+└── research
+    ├── DA-research-directions.md
+    └── experiments
+
+10 directories, 13 files
